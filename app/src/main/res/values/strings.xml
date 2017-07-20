@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODO - LIST</string>
+<!--SET THE MENU TITLE AND ALSO CREATED ARRAY FOR THE MENU ITEM-->
+    <string name="menu_title">FILTER</string>
+    <string-array name="category_array">
+        <item>WORK</item>
+        <item>SCHOOL</item>
+        <item>PERSONAL</item>
+        <item>FAMILY</item>
+    </string-array>
+
+    <string-array name="todolist_category_array">
+        <item>All</item>
+        <item>WORK</item>
+        <item>SCHOOL</item>
+        <item>PERSONAL</item>
+        <item>FAMILY</item>
+    </string-array>
+</resources>
+
+
