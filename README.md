@@ -1,6 +1,7 @@
 # EnhancedToDoList
 
- --> A To Do List Application in Android  which helps to add a todo and mark it as done.
+--> A To Do List Application in Android  which helps to add a todo and mark it as done.
+--> Used SQLite database to store the data.
 
 --> The ability to mark a to do as done (a checkbox).
 --> A category field where user selects from 4 preset categories using a Spinner.
